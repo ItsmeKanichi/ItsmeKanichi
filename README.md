@@ -12,7 +12,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - 🔭 I’m studying Information of Technology in Da Nang.
 - 🌱 Exploring New Technical.
-- ⚡ In my free time I listen to music or watch some video.
+- ⚡ In my free time I Listen to Music or Watch Video.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/Kanichi-8A2BE2)](https://kanichi.id.vn)
 
 ---
