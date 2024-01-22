@@ -8,7 +8,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
+Just a normal guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 
 - 🔭 I’m studying Information of Technology in Da Nang.
 - 🌱 Exploring New Technical.
